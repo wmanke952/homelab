@@ -1,0 +1,15 @@
+Internet
+    │
+ZTE F670L
+    │
+OPNsense (VM)
+    │
+TP-Link TL-SG1016PE
+    ├── Proxmox Host
+    ├── Desktop
+    ├── Notebook
+    ├── Access Point
+    ├── Home Assistant
+    ├── NAS (Future)
+    ├── Cameras (Future)
+    └── IoT Devices (Future)
