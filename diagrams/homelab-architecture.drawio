@@ -1,9 +1,66 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="CIrYZA9TD8TXWxwWVaty">
-    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1664" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KtJc01m_jn8QyhWszNiM-39" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Internet" vertex="1">
+          <mxGeometry height="60" width="120" x="710" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KtJc01m_jn8QyhWszNiM-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="ZTE F670L&#xa;(Bridge)" vertex="1">
+          <mxGeometry height="70" width="200" x="670" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KtJc01m_jn8QyhWszNiM-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;b&gt;Proxmox Server&lt;/b&gt;&#xa;&#xa;Proxmox VE&#xa;────────────&#xa;• OPNsense VM&#xa;• Docker VM&#xa;• Home Assistant VM" vertex="1">
+          <mxGeometry height="220" width="380" x="580" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="KtJc01m_jn8QyhWszNiM-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TP-Link TL-SG1016PE" vertex="1">
+          <mxGeometry height="60" width="260" x="640" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="KtJc01m_jn8QyhWszNiM-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Desktop" vertex="1">
+          <mxGeometry height="50" width="120" x="180" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="KtJc01m_jn8QyhWszNiM-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Notebook" vertex="1">
+          <mxGeometry height="50" width="120" x="410" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="KtJc01m_jn8QyhWszNiM-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Access Point" vertex="1">
+          <mxGeometry height="50" width="120" x="640" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="KtJc01m_jn8QyhWszNiM-46" parent="1" style="rounded=1;dashed=1;whiteSpace=wrap;html=1;" value="NAS (Future)" vertex="1">
+          <mxGeometry height="50" width="120" x="870" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="KtJc01m_jn8QyhWszNiM-47" parent="1" style="rounded=1;dashed=1;whiteSpace=wrap;html=1;" value="Cameras (Future)" vertex="1">
+          <mxGeometry height="50" width="140" x="1100" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="KtJc01m_jn8QyhWszNiM-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="IoT Devices" vertex="1">
+          <mxGeometry height="50" width="150" x="1330" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="KtJc01m_jn8QyhWszNiM-49" edge="1" parent="1" source="KtJc01m_jn8QyhWszNiM-39" target="KtJc01m_jn8QyhWszNiM-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KtJc01m_jn8QyhWszNiM-50" edge="1" parent="1" source="KtJc01m_jn8QyhWszNiM-40" target="KtJc01m_jn8QyhWszNiM-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KtJc01m_jn8QyhWszNiM-51" edge="1" parent="1" source="KtJc01m_jn8QyhWszNiM-41" target="KtJc01m_jn8QyhWszNiM-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KtJc01m_jn8QyhWszNiM-52" edge="1" parent="1" source="KtJc01m_jn8QyhWszNiM-42" target="KtJc01m_jn8QyhWszNiM-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KtJc01m_jn8QyhWszNiM-53" edge="1" parent="1" source="KtJc01m_jn8QyhWszNiM-42" target="KtJc01m_jn8QyhWszNiM-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KtJc01m_jn8QyhWszNiM-54" edge="1" parent="1" source="KtJc01m_jn8QyhWszNiM-42" target="KtJc01m_jn8QyhWszNiM-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KtJc01m_jn8QyhWszNiM-55" edge="1" parent="1" source="KtJc01m_jn8QyhWszNiM-42" target="KtJc01m_jn8QyhWszNiM-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KtJc01m_jn8QyhWszNiM-56" edge="1" parent="1" source="KtJc01m_jn8QyhWszNiM-42" target="KtJc01m_jn8QyhWszNiM-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KtJc01m_jn8QyhWszNiM-57" edge="1" parent="1" source="KtJc01m_jn8QyhWszNiM-42" target="KtJc01m_jn8QyhWszNiM-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
