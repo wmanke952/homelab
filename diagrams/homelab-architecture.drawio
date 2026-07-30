@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="CIrYZA9TD8TXWxwWVaty">
-    <mxGraphModel dx="2020" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="975" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -232,7 +232,7 @@
         <mxCell id="H96ZuvyiD9XfVuRQvyYZ-76" edge="1" parent="1" source="H96ZuvyiD9XfVuRQvyYZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=none;" target="H96ZuvyiD9XfVuRQvyYZ-8" value="Fiber / WAN">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H96ZuvyiD9XfVuRQvyYZ-77" edge="1" parent="1" source="H96ZuvyiD9XfVuRQvyYZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=none;" target="H96ZuvyiD9XfVuRQvyYZ-16" value="WAN NIC">
+        <mxCell id="H96ZuvyiD9XfVuRQvyYZ-77" edge="1" parent="1" source="H96ZuvyiD9XfVuRQvyYZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=none;" target="H96ZuvyiD9XfVuRQvyYZ-16" value="LAN NIC">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H96ZuvyiD9XfVuRQvyYZ-78" edge="1" parent="1" source="H96ZuvyiD9XfVuRQvyYZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=none;" target="H96ZuvyiD9XfVuRQvyYZ-25" value="LAN NIC">
@@ -246,7 +246,7 @@
         <mxCell id="H96ZuvyiD9XfVuRQvyYZ-80" edge="1" parent="1" source="H96ZuvyiD9XfVuRQvyYZ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=none;" target="H96ZuvyiD9XfVuRQvyYZ-44" value="Ethernet">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H96ZuvyiD9XfVuRQvyYZ-81" edge="1" parent="1" source="H96ZuvyiD9XfVuRQvyYZ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=none;" target="H96ZuvyiD9XfVuRQvyYZ-48" value="Ethernet">
+        <mxCell id="H96ZuvyiD9XfVuRQvyYZ-81" edge="1" parent="1" source="H96ZuvyiD9XfVuRQvyYZ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=none;" target="H96ZuvyiD9XfVuRQvyYZ-48" value="Ethernet + PoE">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H96ZuvyiD9XfVuRQvyYZ-82" edge="1" parent="1" source="H96ZuvyiD9XfVuRQvyYZ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=none;" target="H96ZuvyiD9XfVuRQvyYZ-55" value="Ethernet">
