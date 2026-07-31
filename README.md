@@ -90,7 +90,7 @@ Future sections include:
 
 **Current Phase**
 
-Planning and infrastructure design.
+Network architecture and security policy design.
 
 ---
 
@@ -112,9 +112,10 @@ This project follows a few core principles:
 
 * [x] Create repository
 * [x] Define repository structure
-* [ ] Design overall architecture
-* [ ] Document hardware inventory
-* [ ] Design network topology
+* [x] Design overall architecture
+* [x] Document hardware inventory
+* [x] Design network topology
+* [ ] Define VLAN and firewall policy
 * [ ] Deploy Proxmox VE
 * [ ] Deploy OPNsense
 * [ ] Configure VLANs
