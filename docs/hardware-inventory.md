@@ -16,10 +16,11 @@
 
 ## Network Equipment
 
-| Device         | Model               | Status  |
-| -------------- | ------------------- | ------- |
-| ISP ONT        | ZTE F670L           | In Use  |
-| Managed Switch | TP-Link TL-SG1016PE | Planned |
+| Device         | Model                 | Status  |
+| -------------- | -------------------   | ------- |
+| ISP ONT        | ZTE F670L             | In Use  |
+| Managed Switch | TP-Link TL-SG1016PE   | Planned |
+| Access Point   | TP-Link Omada EAP650  | Planned |
 
 ---
 
@@ -38,6 +39,7 @@
 * SSD for Proxmox
 * Gigabit PCI Network Adapter
 * TP-Link TL-SG1016PE
+* TP-Link Omada EAP650
 * UPS
 
 ---
