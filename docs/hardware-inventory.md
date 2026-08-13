@@ -15,16 +15,16 @@
 
 ## Server 2
 
-| Component    | Model                   | Status     |
-| ------------ | ----------------------- | ---------- |
-| CPU          | TBD                     | Pending    |
-| Motherboard  | TBD                     | Pending    |
-| Memory       | TBD                     | Pending    |
-| Storage      | TBD                     | Pending    |
-| Network      | TBD                     | Pending    |
-| Power Supply | TBD                     | Pending    |
-| Case         | TBD                     | Pending    |
----
+| Component         | Brand | Model | Specification / Role                      | Status  |
+|-------------------|-------|-------|-------------------------------------------|---------|
+| CPU               | TBD   | TBD   | Future virtualization / services workload | Planned |
+| Motherboard       | TBD   | TBD   | Platform TBD                              | Planned |
+| Memory            | TBD   | TBD   | Capacity TBD                              | Planned |
+| Storage           | TBD   | TBD   | Capacity and type TBD                     | Planned |
+| Network - Onboard | TBD   | TBD   | Gigabit Ethernet or better                | Planned |
+| Network - PCIe    | TBD   | TBD   | Additional NIC if required                | Planned |
+| Power Supply      | TBD   | TBD   | Wattage TBD                               | Planned |
+| Case              | TBD   | TBD   | Form factor TBD                           | Planned |
 
 ## Network Equipment
 
