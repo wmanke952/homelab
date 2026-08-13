@@ -40,10 +40,12 @@
 
 | Component   | Brand    | Model             | Specification / Role              | Status    |
 |-------------|----------|-------------------|-----------------------------------|-----------|
-| CPU         | AMD      | Phenom II X6      | Spare CPU / possible future use   | Available |
-| CPU         | AMD      | FX-8350           | Spare CPU / possible future use   | Available |
 | CPU         | AMD      | Athlon II X4 640  | Spare CPU / legacy platform       | Available |
+| CPU         | AMD      | Phenom II X6      | Spare CPU / legacy platform       | Available |
+| CPU         | AMD      | FX-8350           | Spare CPU / possible future use   | Available |
 | Motherboard | Biostar  | N68S3+            | AM3 motherboard / legacy platform | Available |
+| GPU         | TBD      | GeForce 9800 GT   | Legacy GPU / testing              | Available |
+| GPU         | TBD      | Radeon HD 5670    | Legacy GPU / testing              | Available |
 | GPU         | Gigabyte | GeForce GTX 760   | Spare GPU / legacy workloads      | Available |
 | GPU         | Gigabyte | GeForce GTX 1660  | GPU compute / AI workloads        | Available |
 
