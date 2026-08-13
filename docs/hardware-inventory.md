@@ -57,8 +57,4 @@
 ---
 
 ## Notes
-
-* Motherboard supports only Fast Ethernet onboard.
-* PCIe x16 available.
-* No PCIe x1 slot.
-* Two PCI slots available.
+---
