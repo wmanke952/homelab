@@ -2,16 +2,16 @@
 
 ## Server 1
 
-| Component    | Model                   | Status     |
-| ------------ | ----------------------- | ---------- |
-| CPU          | Intel Pentium G2020     | In Use     |
-| Motherboard  | Gigabyte GA-Z77M-D3H    | In Use     |
-| Memory       | 32 GB DDR3              | In Use     |
-| Storage      | TBD                     | Pending    |
-| Network      | Fast Ethernet Onboard   | In Use     |
-| Network      | Fast Ethernet PCI-e x1  | In Use     |
-| Power Supply | TBD                     | Pending    |
-| Case         | TBD                     | Pending    |
+| Component         | Brand    | Model                       | Specification / Role                | Status  |
+|-------------------|----------|-----------------------------|-------------------------------------|---------|
+| CPU               | Intel    | Pentium G2020               | 2 cores / 2 threads, LGA1155        | In Use  |
+| Motherboard       | Gigabyte | GA-Z77M-D3H                 | Intel Z77, LGA1155, DDR3            | In Use  |
+| Memory            | TBD      | TBD                         | 32 GB DDR3                          | In Use  |
+| Storage           | TBD      | TBD                         | Capacity and type TBD               | Pending |
+| Network - Onboard | Atheros  | Gigabit Ethernet Controller | 1 Gbps Ethernet - LAN / `vmbr1`     | In Use  |
+| Network - PCIe    | TBD      | TBD                         | 1 Gbps Ethernet - WAN / `vmbr0`     | In Use  |
+| Power Supply      | TBD      | TBD                         | Wattage TBD                         | Pending |
+| Case              | TBD      | TBD                         | Form factor TBD                     | Pending |
 
 ## Server 2
 
