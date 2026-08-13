@@ -38,13 +38,14 @@
 
 ## Available Hardware
 
-| Component   | Brand   | Model             | Specification / Role              | Status    |
-|-------------|---------|-------------------|-----------------------------------|-----------|
-| Motherboard | Biostar | N68S3+            | AM3 motherboard / legacy platform | Available |
-| CPU         | AMD     | Athlon II X4 640  | Spare CPU / legacy platform       | Available |
-| CPU         | AMD     | Phenom II X6      | Spare CPU / possible future use   | Available |
-| CPU         | AMD     | FX-8350           | Spare CPU / possible future use   | Available |
-| GPU         | NVIDIA  | GeForce GTX 1660  | GPU compute / AI workloads        | Available |
+| Component   | Brand    | Model             | Specification / Role              | Status    |
+|-------------|----------|-------------------|-----------------------------------|-----------|
+| CPU         | AMD      | Phenom II X6      | Spare CPU / possible future use   | Available |
+| CPU         | AMD      | FX-8350           | Spare CPU / possible future use   | Available |
+| CPU         | AMD      | Athlon II X4 640  | Spare CPU / legacy platform       | Available |
+| Motherboard | Biostar  | N68S3+            | AM3 motherboard / legacy platform | Available |
+| GPU         | Gigabyte | GeForce GTX 760   | Spare GPU / legacy workloads      | Available |
+| GPU         | Gigabyte | GeForce GTX 1660  | GPU compute / AI workloads        | Available |
 
 ---
 
