@@ -28,23 +28,23 @@
 
 ## Network Equipment
 
-| Device         | Model                 | Status  |
-| -------------- | -------------------   | ------- |
-| ISP ONT        | ZTE F670L             | In Use  |
-| Managed Switch | TP-Link TL-SG1016PE   | Planned |
-| Access Point   | TP-Link Omada EAP650  | Planned |
+| Device           | Brand   | Model        | Specification / Role                         | Status  |
+|------------------|---------|--------------|----------------------------------------------|---------|
+| ISP ONT          | ZTE     | F670L        | ISP fiber termination / bridge mode          | In Use  |
+| Managed Switch   | TP-Link | TL-SG1016PE  | Managed Gigabit PoE switch / VLAN trunking   | Planned |
+| Access Point     | TP-Link | Omada EAP650 | Wi-Fi 6 / PoE+ / Multiple SSIDs / VLAN-aware | Planned |
 
 ---
 
 ## Available Hardware
 
-| Component | Model                     | Status    |
-| --------- | ----------------          | --------- |
-| CPU       | AMD Phenom II X6          | Available |
-| CPU       | AMD FX-8350               | Available |
-| CPU       | AMD Athlon II X4 640      | Available |
-| MB        | Biostar N68S3+            | Available |
-| GPU       | NVIDIA GTX 1660           | Available |
+| Component   | Brand   | Model             | Specification / Role              | Status    |
+|-------------|---------|-------------------|-----------------------------------|-----------|
+| Motherboard | Biostar | N68S3+            | AM3 motherboard / legacy platform | Available |
+| CPU         | AMD     | Athlon II X4 640  | Spare CPU / legacy platform       | Available |
+| CPU         | AMD     | Phenom II X6      | Spare CPU / possible future use   | Available |
+| CPU         | AMD     | FX-8350           | Spare CPU / possible future use   | Available |
+| GPU         | NVIDIA  | GeForce GTX 1660  | GPU compute / AI workloads        | Available |
 
 ---
 
