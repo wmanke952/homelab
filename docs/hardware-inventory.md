@@ -26,11 +26,13 @@
 
 ## Available Hardware
 
-| Component | Model            | Status    |
-| --------- | ---------------- | --------- |
-| CPU       | AMD Phenom II X6 | Available |
-| CPU       | AMD FX-8350      | Available |
-| GPU       | NVIDIA GTX 1660  | Available |
+| Component | Model                     | Status    |
+| --------- | ----------------          | --------- |
+| CPU       | AMD Phenom II X6          | Available |
+| CPU       | AMD FX-8350               | Available |
+| CPU       | AMD Athlon II X4 640      | Available |
+| MB        | Biostar N68S3+            | Available |
+| GPU       | NVIDIA GTX 1660           | Available |
 
 ---
 
