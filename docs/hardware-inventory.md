@@ -1,17 +1,29 @@
 # Hardware Inventory
 
-## Server
+## Server 1
 
 | Component    | Model                   | Status     |
 | ------------ | ----------------------- | ---------- |
-| CPU          | AMD Athlon II X4 640    | In Use     |
-| Motherboard  | Biostar N68S3+          | In Use     |
-| Memory       | 16 GB DDR3              | In Use     |
+| CPU          | Intel Pentium G2020     | In Use     |
+| Motherboard  | Gigabyte GA-Z77M-D3H    | In Use     |
+| Memory       | 32 GB DDR3              | In Use     |
 | Storage      | TBD                     | Pending    |
-| Network      | Fast Ethernet (Onboard) | Limitation |
+| Network      | Fast Ethernet Onboard   | In Use     |
+| Network      | Fast Ethernet PCI-e x1  | In Use     |
 | Power Supply | TBD                     | Pending    |
 | Case         | TBD                     | Pending    |
 
+## Server 2
+
+| Component    | Model                   | Status     |
+| ------------ | ----------------------- | ---------- |
+| CPU          | TBD                     | Pending    |
+| Motherboard  | TBD                     | Pending    |
+| Memory       | TBD                     | Pending    |
+| Storage      | TBD                     | Pending    |
+| Network      | TBD                     | Pending    |
+| Power Supply | TBD                     | Pending    |
+| Case         | TBD                     | Pending    |
 ---
 
 ## Network Equipment
@@ -38,8 +50,6 @@
 
 ## Planned Acquisitions
 
-* SSD for Proxmox
-* Gigabit PCI Network Adapter
 * TP-Link TL-SG1016PE
 * TP-Link Omada EAP650
 * UPS
